@@ -2,7 +2,7 @@
     font-family: 'Poppins', sans-serif;
 }
 .header{
-    background-image: url('/img/hero.jpeg');
+    background-image: url('img/hero.jpeg');
     height: 400px;
     background-size: cover;
     border-radius: 15px;
